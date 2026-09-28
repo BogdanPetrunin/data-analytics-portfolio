@@ -36,3 +36,4 @@ jupyter notebook
 - Telegram: [@BogdanPetrunin](https://t.me/BogdanPetrunin)
 - Email: [bogdan_petrunin22@mail.ru](mailto:bogdan_petrunin22@mail.ru)
 - GitHub: [BogdanPetrunin](https://github.com/BogdanPetrunin)
+- 📄 [Резюме (PDF)](https://github.com/BogdanPetrunin/BogdanPetrunin/blob/main/Petrunin_Bogdan_Junior_Data_Analyst.pdf)
